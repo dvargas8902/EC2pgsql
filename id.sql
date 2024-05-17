@@ -1,0 +1,1 @@
+select id from kace2_belcorp.clientes c where email = 'pamunozg@konecta-group.com';
